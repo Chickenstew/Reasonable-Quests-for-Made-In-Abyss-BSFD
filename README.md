@@ -106,7 +106,7 @@ Should work with any other mod as long as they do not change how guild quests wo
 + Primordial Hunt Quests - 原生生物討伐・その4 - 100 - Blue
 + Primordial Hunt Quests - 原生生物討伐・その5 - 125 - Moon
 + Primordial Hunt Quests - 原生生物討伐・その6 - 150 - Moon
-+ Primordial Hunt Quests - 原生生物討伐・その7 - 175 - Black
++ Primordial Hunt Quests - 原生生物討伐・その7 - 175 - Moon
 + Primordial Hunt Quests - 原生生物討伐・その8 - 200 - Black
 + Primordial Hunt Quests - 原生生物討伐・その9 - 225 - Black
 + Primordial Hunt Quests - 原生生物討伐・その10 - 250 - White
