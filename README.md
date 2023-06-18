@@ -13,10 +13,7 @@ A mod that makes Guild Quests more reasonable for the game Made In Abyss: Binary
 https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/tag/release
 
 ### Known Bugs
-+ For some of the quests such as the Weapon Masteries and Primordial Hunt Quests the description will state a layer, but the clear conditions will state the proper layer for the ones that were changed. **Character is a Red Whistle**
-
-![Image of Description text on a Character with a Red Whistle](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/blob/main/MiA-BSFD-Mod.png?raw=true)
-+ Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it. **Character is a Red Whistle**
++ Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it.
 
 ![Image of mod removal on a character with only Red Whistle](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/blob/main/MiA-BSFD-No-Mod.png?raw=true)
 
