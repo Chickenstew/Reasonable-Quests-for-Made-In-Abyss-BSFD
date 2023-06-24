@@ -10,7 +10,7 @@ A mod that makes Guild Quests more reasonable for the game Made In Abyss: Binary
 + You're done!
 
 ### Download
-https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/tag/release
+[Latest: v1.0.2](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/tag/v1.0.2)
 
 ### Known Bugs
 + Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it. 
