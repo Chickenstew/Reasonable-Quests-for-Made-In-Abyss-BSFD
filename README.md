@@ -25,7 +25,8 @@ A mod that makes Guild Quests more reasonable for the game Made In Abyss: Binary
 [EX Plus Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsEXPlus_P.pak)
 
 ### Known Bugs
-+ Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it. 
++ Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it.
++ If removing a Plus version of the mod make sure to turn in any of the custom quets or it will leave a blank quest in your log until you reinstall the mod and turn it in.
 
 ### Without Mod
 ![Image of mod removal on a character with only Red Whistle](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/blob/main/MiA-BSFD-No-Mod.png?raw=true)
@@ -368,7 +369,7 @@ Should work with any other mod as long as they do not change how guild quests wo
 
 <details>
   <summary>Plus Versions</summary>
-  These versions currently add 2 custom repeateable quests:
+  These versions currently add 2 custom repeatable quests:
   
   Item Exchange (Orb Piercer Antidote)
   
