@@ -14,9 +14,15 @@ A mod that makes Guild Quests more reasonable for the game Made In Abyss: Binary
 
 [Regular](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuests_P.pak)
 
+[Regular Plus](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsPlus_P.pak)
+
 [Light Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsLight_P.pak)
 
+[Light Plus Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsLightPlus_P.pak)
+
 [EX Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsEX_P.pak)
+
+[EX Plus Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsEXPlus_P.pak)
 
 ### Known Bugs
 + Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it. 
@@ -358,6 +364,22 @@ Should work with any other mod as long as they do not change how guild quests wo
   + step 3 - 3 kills
   + step 4 - 4 kills
   + step 5 - 5 kills
+</details>
+
+<details>
+  <summary>Plus Versions</summary>
+  These versions currently add 2 custom repeateable quests:
+  
+  Item Exchange (Orb Piercer Antidote)
+  
+  + Requires Black Whistle
+  + Requires completion of the Black Whistle quest "Gather Poison Samples"
+  + 2 Ugly Spinners
+  
+  Item Exchange (Limber Scale)
+  
+  + Requires Blue Whistle
+  + 2 Horizontal Layer Boards  
 </details>
 
 ### How to uninstall
