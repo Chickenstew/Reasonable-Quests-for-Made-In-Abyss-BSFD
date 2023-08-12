@@ -24,6 +24,8 @@ A mod that makes Guild Quests more reasonable for the game Made In Abyss: Binary
 
 [EX Plus Version](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsEXPlus_P.pak)
 
+[Neuron Activation](https://github.com/Chickenstew/Reasonable-Quests-for-Made-In-Abyss-BSFD/releases/download/v1.0.2/MadeInAbyss-BSFD-WindowsNoEditor_ReasonableQuestsNeuronActivation_P.pak)
+
 ### Known Bugs
 + Not really a bug, but removal of the mod will still keep the quest and return its original condition values even if not eligible for it.
 + If removing a Plus version of the mod make sure to turn in any of the custom quets or it will leave a blank quest in your log until you reinstall the mod and turn it in.
@@ -365,6 +367,11 @@ Should work with any other mod as long as they do not change how guild quests wo
   + step 3 - 3 kills
   + step 4 - 4 kills
   + step 5 - 5 kills
+</details>
+
+<details>
+  <summary>Reasonable Quests Neuron Activation</summary>
+  Same as the EX version, but has all the guild quests unlocked at Red Whistle.
 </details>
 
 <details>
