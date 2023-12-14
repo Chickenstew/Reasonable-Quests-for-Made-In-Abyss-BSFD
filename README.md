@@ -352,6 +352,7 @@ Should work with any other mod as long as they do not change how guild quests wo
   + Primodial Hunts start at 10 and increase by 10
   + Weapon quests start at 5 and increase by 5
   + Stanard kill quests start at 3 and increase by 3 with exception of rarer creatures being 1-5 like the standard mod
+  + Reduces the gathering quests to 25 from 50
 </details>
 
 <details>
